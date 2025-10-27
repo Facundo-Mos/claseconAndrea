@@ -1,3 +1,14 @@
 .titulo {
-    color: brown;
+    color: rgb(161, 118, 118);
+}
+.subtitulo {
+  font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.milei {
+    font-size: 100px;
+}
+span {
+    text-decoration: underline;
 }
